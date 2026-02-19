@@ -14,7 +14,15 @@ A simple calculator app built using **Kotlin** and **Jetpack Compose**.
 - Android Studio
 
 ## 📱 Preview
-(Add screenshots here)
+
+### Entering First Number
+![Entering First Number](input-1.png)
+
+### Entering Second Number
+![Entering Second Number](input-2.png)
+
+### Final Result
+![Final Result](result.png)
 
 ## 🎯 What I Learned
 - How to build UI using Jetpack Compose
