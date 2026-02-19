@@ -16,13 +16,13 @@ A simple calculator app built using **Kotlin** and **Jetpack Compose**.
 ## 📱 Preview
 
 ### Entering First Number
-![Entering First Number](input-1.png)
+<img src="input-1.png" width="300"/>
 
 ### Entering Second Number
-![Entering Second Number](input-2.png)
+<img src="input-2.png" width="300"/>
 
 ### Final Result
-![Final Result](result.png)
+<img src="result.png" width="300"/>
 
 ## 🎯 What I Learned
 - How to build UI using Jetpack Compose
